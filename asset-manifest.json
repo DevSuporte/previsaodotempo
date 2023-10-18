@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/previsaodotempo/static/css/main.997d3ff7.css",
+    "main.js": "/previsaodotempo/static/js/main.4122a7f3.js",
+    "static/media/background.jpg": "/previsaodotempo/static/media/background.8edce132531c766f3d49.jpg",
+    "static/media/OMEGLE.ttf": "/previsaodotempo/static/media/OMEGLE.8b55f038bca550c738b0.ttf",
+    "index.html": "/previsaodotempo/index.html",
+    "main.997d3ff7.css.map": "/previsaodotempo/static/css/main.997d3ff7.css.map",
+    "main.4122a7f3.js.map": "/previsaodotempo/static/js/main.4122a7f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.997d3ff7.css",
+    "static/js/main.4122a7f3.js"
+  ]
+}
