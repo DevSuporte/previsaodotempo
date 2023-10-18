@@ -130,5 +130,28 @@ form:hover {
 }
 
 #none {
-    color: gray;
+    color: black;
+}
+
+@media (min-width: 401px) {
+    .searchWraper .border {
+        width: 25rem;
+    }
+    
+    #nome {
+        margin-left: -3rem;
+    }
+
+}
+
+
+@media (min-width: 600px) {
+    .searchWraper .border {
+        width: 30rem;
+    }
+    
+    #nome {
+        margin-left: -2rem;
+    }
+
 }
